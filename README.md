@@ -48,7 +48,8 @@ Copy code
 ## 🧑‍💻 Author
 
 **Mohammed Alhassan Khidir**  
-📧 [alhassankhidir@gmail.com](mailto:alhassankhidir@gmail.com)  
+📧 [alhassankhidir@gmail.com](mailto:alhassankhidir@gmail.com) 
+[contact] (+233243335565)
 🔗 [GitHub Profile](https://github.com/eaglespy18)
 
 ---
