@@ -346,3 +346,20 @@ footer {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+
+
+/* Profile Picture in Navbar */
+.profile-pic {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  color: #000009;
+}
