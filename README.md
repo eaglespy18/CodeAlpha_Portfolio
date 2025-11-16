@@ -12,7 +12,7 @@ This project showcases my skills, projects, resume, and contact information in a
 - Hover effects and animations.
 - Sections included:
   - 🧍 About Me
-  - 💼 Projects
+  - 💼 Projects Section
   - 🧰 Skills
   - 📄 Resume
   - ✉️ Contact
