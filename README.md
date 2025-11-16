@@ -15,7 +15,7 @@ This project showcases my skills, projects, resume, and contact information in a
   - 💼 Projects Section
   - 🧰 Skills Section
   - 📄 Resume Section
-  - ✉️ Contact
+  - ✉️ Contact Section
 
 ---
 
