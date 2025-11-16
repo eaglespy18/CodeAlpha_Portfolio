@@ -13,7 +13,7 @@ This project showcases my skills, projects, resume, and contact information in a
 - Sections included:
   - 🧍 About Me
   - 💼 Projects Section
-  - 🧰 Skills 
+  - 🧰 Skills Section
   - 📄 Resume Section
   - ✉️ Contact
 
