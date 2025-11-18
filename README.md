@@ -41,7 +41,7 @@ Copy code
 ## 🔗 Live Demo
 
 👉 [View Portfolio Website](https://eaglespy18.github.io/Portfolio)  
-*(Replace this link with your actual GitHub Pages or Netlify link after deployment.)*
+
 
 ---
 
