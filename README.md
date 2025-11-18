@@ -11,7 +11,7 @@ This project showcases my skills, projects, resume, and contact information in a
 - Smooth scrolling navigation.
 - Hover effects and animations.
 - Sections included:
-  - 🧍 About Me
+  - 🧍 About Me Section
   - 💼 Projects Section
   - 🧰 Skills Section
   - 📄 Resume Section
