@@ -38,7 +38,7 @@ Copy code
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Demo 
 
 👉 [View Portfolio Website](https://eaglespy18.github.io/Portfolio)  
 
@@ -58,7 +58,6 @@ Copy code
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
 
 ### 💡 Notes
 
