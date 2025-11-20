@@ -43,8 +43,6 @@ Copy code
 👉 [View Portfolio Website](https://eaglespy18.github.io/Portfolio)  
 
 
----
-
 ## 🧑‍💻 Author
 
 **Alhassan Mohammed Khidir**  
