@@ -36,7 +36,6 @@ Example:
 yaml
 Copy code
 
----
 
 ## 🔗 Live Demo 
 
