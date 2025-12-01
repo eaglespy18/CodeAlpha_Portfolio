@@ -39,9 +39,10 @@ Copy code
 👉 [View Portfolio Website](https://eaglespy18.github.io/Portfolio)  
 
 
-## 🧑‍💻 Author
+## 🧑‍💻 About the Author
 
 **Alhassan Mohammed Khidir**  
+
 📧 [alhassankhidir@gmail.com](mailto:alhassankhidir@gmail.com) 
 [contact] (+233243335565)
 🔗 [GitHub Profile](https://github.com/eaglespy18)
