@@ -51,6 +51,8 @@ Copy code
 [contact] (+233243335565)
 🔗 [GitHub Profile](https://github.com/eaglespy18)
 
+------
+
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
