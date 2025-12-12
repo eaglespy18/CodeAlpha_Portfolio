@@ -41,7 +41,7 @@ Copy code
 
 👉 [View Portfolio Website](https://eaglespy18.github.io/Portfolio)  
 
-------
+----
 
 ## 🧑‍💻 About the Author
 
@@ -55,7 +55,6 @@ Copy code
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
 
 ## 💡 Notes
 
