@@ -15,7 +15,6 @@ This project showcases my skills, projects, resume, and contact information in a
   - 📄 Resume Section
   - ✉️ Contact Section
 
---
 
 ## 🚀 Technologies Used
 
