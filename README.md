@@ -23,7 +23,7 @@ This project showcases my skills, projects, resume, and contact information in a
 - **JavaScript** – Interactivity and smooth scrolling  
 - **GitHub Pages** – For deployment
 
-----
+---
 
 ## 📸 Screenshots
 
