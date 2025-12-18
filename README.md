@@ -5,7 +5,7 @@ This project showcases my skills, projects, resume, and contact information in a
 
 ## 🧠 Features of the portfolio
 
-- Fully responsive design for desktop and mobile.
+- Fully responsive and interactive design for desktop and mobile.
 - Smooth scrolling navigation.
 - Hover effects and animations.
 - Sections included:
