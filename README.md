@@ -16,7 +16,7 @@ This project showcases my skills, projects, resume, and contact information in a
   - ✉️ Contact Section
 
 
-## 🚀 Technologies Used
+## 🚀 Technologies
 
 - **HTML5** – Structure of the web pages  
 - **CSS3** – Styling and layout (Flexbox, Grid, Animations)  
