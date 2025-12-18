@@ -38,7 +38,7 @@ Copy code
 
 ## 🧑‍💻 About the Author
 
-Name: [Alhassan Mohammed Khidir]
+[Alhassan Mohammed Khidir](Name)
 
 📧 [alhassankhidir@gmail.com](mailto:alhassankhidir@gmail.com) 
 [contact] (+233243335565)
