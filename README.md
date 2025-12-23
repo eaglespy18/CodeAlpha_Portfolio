@@ -42,7 +42,7 @@ Copy code
 
 👉 [View Portfolio Website](https://eaglespy18.github.io/Portfolio)  
 
----------
+-----
 
 ## 🧑‍💻 About the Author
 
@@ -52,7 +52,6 @@ Copy code
 [contact] (+233243335565)
 🔗 [GitHub Profile](https://github.com/eaglespy18)
 
----
 
 ## 📝 License
 
