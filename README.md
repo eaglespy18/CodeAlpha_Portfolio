@@ -36,8 +36,7 @@ Example:
 yaml
 Copy code
 
---------
-
+-----
 ## 🔗 Live Demo of the project
 
 👉 [View Portfolio Website](https://eaglespy18.github.io/Portfolio)  
