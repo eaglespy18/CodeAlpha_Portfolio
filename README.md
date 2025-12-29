@@ -2,7 +2,7 @@
 
 A responsive and modern **Portfolio Website** built with **HTML**, **CSS**, and **JavaScript**.  
 This project showcases my skills, projects, resume, and contact information in a clean and interactive layout.
-----------
+------------
 
 ## 🧠 Features of the portfolio
 
