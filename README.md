@@ -14,7 +14,7 @@ This project showcases my skills, projects, resume, and contact information in a
   - 🧰 Skills Section
   - 📄 Resume Section
   - ✉️ Contact Section
----------
+--------
 ## 🚀 Technologies
 
 - **HTML5** – Structure of the web pages  
