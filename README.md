@@ -21,7 +21,7 @@ This project showcases my skills, projects, resume, and contact information in a
 - **CSS3** – Styling and layout (Flexbox, Grid, Animations)  
 - **JavaScript** – Interactivity and smooth scrolling  
 - **GitHub Pages** – For deployment
----------------
+--------------
 
 ## 📸 Screenshots
 
