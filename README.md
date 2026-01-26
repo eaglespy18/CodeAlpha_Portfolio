@@ -15,6 +15,7 @@ This project showcases my skills, projects, resume, and contact information in a
   - 🧰 Skills Section
   - 📄 Resume Section
   - ✉️ Contact Section
+
 -------------
 ## 🚀 Technologies
 
@@ -47,6 +48,7 @@ Copy code
 
 ## 📝 License
 
+-------
 
 This project is open-source and available under the [MIT License](LICENSE).
 
