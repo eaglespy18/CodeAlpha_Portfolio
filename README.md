@@ -49,7 +49,7 @@ Copy code
 
 ## 📝 License
 
---------gi
+--------g
 
 This project is open-source and available under the [MIT License](LICENSE).
 
