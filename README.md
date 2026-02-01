@@ -24,7 +24,7 @@ This project showcases my skills, projects, resume, and contact information in a
 - **JavaScript** – Interactivity and smooth scrolling  
 - **GitHub Pages** – For deployment
 
---------54
+--------5
 ## 📸 Screenshots
 
 _Add screenshots of your website here (optional)_  
