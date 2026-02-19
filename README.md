@@ -55,5 +55,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 This portfolio was created as part of the **CodeAlpha Internship projects (October Batch)**
 
---
+-
 -------------=--------------------------
