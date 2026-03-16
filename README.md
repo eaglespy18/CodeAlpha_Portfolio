@@ -61,6 +61,6 @@ git push origin main
 
 ------------
 --------git add . 
-git commit -
+git commit 
 
 -----------
