@@ -62,5 +62,5 @@ git push origin main
 ------------
 --------git add . 
 git commit -m "style"
-git push origin ma
+git push origin m
 -----------
