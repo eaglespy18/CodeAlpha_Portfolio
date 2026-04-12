@@ -59,9 +59,9 @@ This portfolio was created as part of the **CodeAlpha Internship projects (Octob
  git add . 
 git commit -m "style"
 git push origin main
-------------------- 
+------------------ 
 ---------
 -------
-----
+---
 
 
