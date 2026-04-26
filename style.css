@@ -187,7 +187,7 @@ section {
 
 .project-card img {
   width: 100%;
-  border-radius: 10px;
+  border-radius: 10px; 
   transition: transform 0.5s;
 }
 
