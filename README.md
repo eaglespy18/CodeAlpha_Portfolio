@@ -56,12 +56,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 This portfolio was created as part of the **CodeAlpha Internship projects (October Batch)**
 
 
- git add . 
-git commit -m "style"
-git push origin main
+ 
+ 
 
------------
------------
-------------
------------
+----------
+------
+---------
+--------
 author: Alhassan Mohammed khidir, computer science undergraduate 
