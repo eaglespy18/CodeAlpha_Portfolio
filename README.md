@@ -58,14 +58,14 @@ This portfolio was created as part of the **CodeAlpha Internship projects (Octob
 
  
  git add .
- git commit -m "fix"
+ git commit -m "f"
  git push origin main
 
 ----------
 ---=------
 ----------
 ---------
-----------
+---------
 --------
 ---------
 
