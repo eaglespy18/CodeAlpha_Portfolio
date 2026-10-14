@@ -57,14 +57,14 @@ This portfolio was created as part of the **CodeAlpha Internship projects (Octob
 
 
  
- git add .
- git commit -m "f"
- git push
+git add .
+git commit -m "fix"
+git push
 
----------
+--------
 --------
 -------
---------
+------
 --------
 ------
 --------
